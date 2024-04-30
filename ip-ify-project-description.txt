@@ -1,0 +1,11 @@
++--------------------------------------------
+| Solo Project Proposal
++--------------------------------------------
+
+Title: IPv4 Subnet calculator
+Codename: ip-ify
+Stack: Javascript and ReactJS with Vitejs
+CSS Framework: TailwindCSS
+Database: MongoDB
+
+GitHub Repo Link: https://github.com/pmessri/ip-ify
